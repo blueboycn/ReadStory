@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://web.g-jack.com.cn:81/download/ReadStory.ipa</string>
+					<string>http://169.254.169.150/download/ReadStory.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://web.g-jack.com.cn:81/images/logo90.gif</string>
+					<string>http://169.254.169.150/images/logo90.gif</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://web.g-jack.com.cn:81/images/GJCKLOGO.gif</string>
+					<string>http://169.254.169.150/images/GJCKLOGO.gif</string>
 				</dict>
 			</array>
 			<key>metadata</key>
